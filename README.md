@@ -33,6 +33,3 @@ CREATE TABLE users (
     created_at TIMESTAMP DEFAULT NOW()
 );
 
-## 🗂️ Entity Relationship Diagram (ERD)
-
-This ERD represents how users, photos, comments, likes, and tags are connected in the database.
